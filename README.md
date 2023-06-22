@@ -14,5 +14,5 @@ En este proyecto se encuentra el código del trabajo fin de grado sobre el desar
 2. Abrimos una terminal de comandos dentro de la ruta del proyecto.
 3. Ejecutamos el comando '**python ontologia_basica.py**' si queremos ejecutar la ontología básica.
 4. Ejecutamos el comando '**python ontologia_compleja.py**' si queremos ejecutar la ontología compleja.
-5. Se puede comprobar que se devuelve por pantalla un print con el tiempo final de ejecucción en segundos.Además, para cada activo se muestra su nivel de riesgo   inicial, el valor de todos los impactos que recibe y su nivel de riesgo final, el cual se obtiene mediante la suma de los dos valores previamente mencionados.
+5. Se puede comprobar que se devuelve por pantalla un print con el tiempo final de ejecución en segundos.Además, para cada activo se muestra su nivel de riesgo   inicial, el valor de todos los impactos que recibe y su nivel de riesgo final, el cual se obtiene mediante la suma de los dos valores previamente mencionados.
 6. Cada script de python guarda toda la información en el archivo **ontología_basica_tfg.owl** para la **ontologia_tfg.owl** y en el archivo **ontologia_compleja_tfg.owl** para la **ontologia_tfg_2.owl**. Si accedemos a esos archivos desde Protégé podemos comprobar como se han cargado y clasificado todos los individuos con sus diferentes reglas de razonamiento. 
