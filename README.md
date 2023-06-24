@@ -17,7 +17,7 @@ En este proyecto se encuentra el código del trabajo fin de grado sobre el desar
 ## Procedimiento de ejecución del código para la selección de características:
 1. Importamos el proyecto en cualquier entorno de desarrollo integrado(IDE), en este caso se está utilizando Spyder.
 2. Abrimos una terminal de comandos dentro de la ruta del proyecto.
-3. Ejecutamos el comando **python seleccion_caracteristicas_TFG.py** para ejecutar el módelo de machine learning Random Forest.
+3. Ejecutamos el comando '**python seleccion_caracteristicas_TFG.py**' para ejecutar el módelo de machine learning Random Forest.
 4. Se puede comprobar el resultado en el terminal, donde aparecerá un gráfico con la importancia de cada característica.
 ## Procedimiento de ejecución del código para las ontologías:
 1. Importamos el proyecto en cualquier entorno de desarrollo integrado(IDE), en este caso se está utilizando Visual Studio Code. 
