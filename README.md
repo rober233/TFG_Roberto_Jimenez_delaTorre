@@ -10,10 +10,10 @@ En este proyecto se encuentra el código del trabajo fin de grado sobre el desar
 7. Librería pandas.
 8. Librería pyplot.
 ## Archivos del proyecto:
-1. Sistemas basados en python para ejecutar las ontologías, uno distinto por cada ontología y método de ejecuccion.
-2. Archivos CSV necesarios para cada ontologia con sus respectivos individuos.
+1. Sistemas basados en python para ejecutar las ontologías, uno distinto por cada ontología y método de ejecución.
+2. Archivos CSV necesarios para cada ontología con sus respectivos individuos.
 3. Archivos OWL que contienen la estructura de cada ontología.
-4. Carpeta con los archivos necesarios para la selección de características, un archivo CSV con el dataset y un archivo python con el módelo RF.
+4. Carpeta con los archivos necesarios para la selección de características, un archivo CSV con el dataset y un archivo python con el modelo RF.
 ## Procedimiento de ejecución del código para la selección de características:
 1. Importamos el proyecto en cualquier entorno de desarrollo integrado(IDE), en este caso se está utilizando Spyder.
 2. Abrimos una terminal de comandos dentro de la ruta del proyecto.
