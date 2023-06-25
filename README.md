@@ -10,10 +10,10 @@ En este proyecto se encuentra el código del trabajo fin de grado sobre el desar
 7. Librería pandas.
 8. Librería pyplot.
 ## Archivos del proyecto:
-1. Sistemas basados en python para ejecutar las ontologías, uno distinto por cada ontología y método de ejecución.
-2. Archivos CSV necesarios para cada ontología con sus respectivos individuos.
-3. Archivos OWL que contienen la estructura de cada ontología.
-4. Carpeta con los archivos necesarios para la selección de características, un archivo CSV con el dataset y un archivo python con el modelo RF.
+1.	Sistemas basados en Python para ejecutar las ontologías, uno distinto por cada ontología y método de ejecución **‘ontologia_basica.py’** y **‘ontologia_basica_multi.py’** para la **‘ontologia_tfg.owl’** y **‘ontologia_compleja.py’** y **‘ontologia_compleja_multi.py’** para la **‘ontologia_tfg_2.owl’**.
+2.	Archivos CSV necesarios para cada ontología con sus respectivos individuos **‘activos.csv’**, **‘Datos_TFG_Basica.csv’** y **‘Datos_TFG_Compleja.csv’**.
+3.	Archivos OWL que contienen la estructura de cada ontología **‘ontologia_tfg.owl’** y **‘ontologia_tfg_2.owl’**.
+4.	Carpeta con los archivos necesarios para la selección de características, un archivo CSV con el dataset **‘seleccion_caracteristicas.csv’** y un archivo Python **‘seleccion_caracteristicas_TFG.py’** con el modelo RF. 
 ## Procedimiento de ejecución del código para la selección de características:
 1. Importamos el proyecto en cualquier entorno de desarrollo integrado(IDE), en este caso se está utilizando Spyder.
 2. Abrimos una terminal de comandos dentro de la ruta del proyecto.
